@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc182f4a8fc6c674f89fe229e2f9ca66, type: 3}
+  m_Name: AttackTwo
+  m_EditorClassIdentifier: 
+  <AttackClip>k__BackingField: {fileID: 7400000, guid: a0c5d7aa1b7239e44832d4a629bdc0ba, type: 2}
+  <Damage>k__BackingField: 5
